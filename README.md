@@ -1,3 +1,4 @@
 # TheBestProjectInTheWorld
 
-[![Cointribute](https://img.shields.io/badge/Cointribute_to_this_project-blue)](https://localhost:7268/donate/0x5c208582ecb81d5ec0ba09049f942de98d3e47ff)
+[![Cointribute](https://img.shields.io/badge/Cointribute_to_this_project-blue)](https://localhost:7268/donate/0xc19da49b5535a222789c8ae404fc97e214ba0672)
+
