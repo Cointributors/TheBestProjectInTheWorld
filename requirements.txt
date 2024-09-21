@@ -1,1 +1,2 @@
 the-required-dependency @ git+https://github.com/didge1987/TheRequiredDependency@main
+test-dependency @ git+https://github.com/theonm/TestDependency@main
